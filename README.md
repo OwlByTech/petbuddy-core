@@ -1,4 +1,9 @@
-# PetBuddy
+<p align="center">
+    <img width="200" src="./assets/logo.svg"/>
+</p>
+<h1 align="center">
+    Petbuddy
+</h1>
 
 ## Getting Started
 To start the project in development mode you must copy the `dev.env` to `.env`:
